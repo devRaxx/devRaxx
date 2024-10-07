@@ -43,10 +43,7 @@
   </a> 
   <a href="https://www.fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
-  </a> 
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo.svg" alt="chakra-ui" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://www.serverless.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="serverless" width="40" height="40"/>
   </a> 
@@ -58,8 +55,5 @@
   </a> 
   <a href="https://www.jira.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
-  </a> 
-  <a href="https://asana.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="asana" width="40" height="40"/>
   </a> 
 </p>
