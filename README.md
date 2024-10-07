@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Next.JS web applications**
 
-- 🌱 I’m currently learning **ReactJS, NextJS, and Typescript**
+- 🌱 I’m currently learning **ReactJS, NextJS, Typescript, and Azure Web Services**
 
-- 📫 How to reach me **racastaneros@gmail.com**
+- 📫 How to reach me: **racastaneros@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B77Zk7HI3NdKcoRFpMq9OtQWdavWu206/view?usp=sharing)
 
