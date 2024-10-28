@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rax</h1>
 <h3 align="center">A data enthusiast and frontend developer!</h3>
 
-- 🔭 I’m currently working on **Next.JS web applications**
-
-- 🌱 I’m currently learning **ReactJS, NextJS, Typescript, and Azure Web Services**
+- 🔭 I’m currently working on **NextJS and ReactJS web applications**
 
 - 📫 How to reach me: **racastaneros@gmail.com**
 
