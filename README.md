@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJS and ReactJS web applications<br><br>📫 How to reach me: racastaneros@gmail.com<br><br>
+🔭 I’m currently working on React and Next.JS web applications<br><br>📫 How to reach me: racastaneros@gmail.com<br><br>
 
 
 ## 🌐 Socials:
