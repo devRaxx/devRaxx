@@ -1,6 +1,6 @@
-# Rocky Angelo Castañeros
+# Hello, I'm Rax!
 
-> Results-driven Frontend Engineer with a strong foundation in modern JavaScript/TypeScript frameworks, specializing in React and SSR Web Development. A proactive problem-solver committed to continuous learning, striving for technical excellence, and collaborating across agile teams to deliver high-quality, impactful web experiences.
+> I am currently working on React and Next.JS projects with primary focus on Frontend Development.
 
 ---
 
