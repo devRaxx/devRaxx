@@ -1,9 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on React and Next.JS web applications<br><br>📫 How to reach me: racastaneros@gmail.com<br><br>
+# Rocky Angelo Castañeros
 
+> Results-driven Frontend Engineer with a strong foundation in modern JavaScript/TypeScript frameworks, specializing in React and SSR Web Development. A proactive problem-solver committed to continuous learning, striving for technical excellence, and collaborating across agile teams to deliver high-quality, impactful web experiences.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rnjelo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rockycastaneros) 
+---
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## SKILLS
+
+| Category | Technologies |
+| :--- | :--- |
+| **Core Web & Languages** | TypeScript, JavaScript, HTML5, CSS3 |
+| **Frontend Frameworks & Libraries** | ReactJS, Next.js, Tailwind CSS |
+| **Backend, Cloud & Other Tools** | Python, Django, NestJS, PostgreSQL, AWS (Amplify, EC2), Vercel, Google Workspace Apps Script, Asana, Jira |
+| **APIs, Tools & Version Control** | REST APIs, GraphQL, Git |
+| **Testing & Quality Assurance** | Jest, React Testing Library, Cross-Browser Compatibility Testing |
+| **Architecture & Concepts** | Component-Based Architecture, Server-Side Rendering (SSR), Static Site Generation (SSG), Responsive Web Design |
